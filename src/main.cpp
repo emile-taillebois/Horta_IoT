@@ -3,7 +3,7 @@ Controle e automação de uma Horta Inteligente
 Instituto Federal Goiano - Campus Avançado Ipameri
 Desenvolvedores:  Márcia Danielle (07/2022 - 12/2022)
                   Tiago Santos Dias (01/2023 - 31/07/2023)
-                  Felipe da Costa Dias (10/2024 - presente)
+                  Felipe da Costa Dias (10/2024 - )
                   Emile Taillebois (07/2022 - presente)
 Orientador do projeto: Emile Taillebois
 ==============================================================*/
